@@ -1,9 +1,7 @@
 #include <stdio.h>
 
 int main() {
-    int integer1;
-    int integer2;
-    int sum;
+    int integer1, integer2, sum;
     printf("Please enter the first integer number: ");
     scanf("%d", &integer1);
     printf("Please enter the second integer number: ");
